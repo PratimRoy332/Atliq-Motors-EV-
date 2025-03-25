@@ -5,6 +5,7 @@ Atliq Motors wants to launch EV vehicles  in India  so they need indian market a
 
 
 Preliminary Analysis :
+
 List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
 Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
 List the states with negative penetration (decline) in EV sales from 2022 to 2024?
@@ -17,6 +18,7 @@ What is the projected number of EV sales (including 2-wheelers and 4-wheelers) f
 Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price. Average Price =85K for 2-Wheeler, 15L for 4-Wheeler.
 
 Secondary Analysis :
+
 What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)?
 How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies?
 How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states?
