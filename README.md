@@ -25,3 +25,23 @@ How does the availability of charging stations infrastructure correlate with the
 Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why?
 Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance etc.)
 Your top 3 recommendations for AtliQ Motors.
+
+🌟 Key Findings
+Regional Trends
+
+Goa and Kerala lead in EV adoption for FY 2024.
+Karnataka surpasses Delhi in EV sales and penetration in 2024.
+Underperforming States
+
+Declining EV sales in Gujarat, Haryana, and Uttarakhand from 2022 to 2024.
+Top Performers
+
+Tata Motors leads the 4-wheeler EV market with consistent growth.
+BMW India has the highest CAGR (11.41%) among leading 4-wheeler EV manufacturers.
+Future Projections
+
+Maharashtra is set to dominate EV sales by 2030.
+March is the peak sales month; November records the lowest activity.
+Emerging Markets
+
+Meghalaya and Arunachal Pradesh showcase untapped growth potential.
